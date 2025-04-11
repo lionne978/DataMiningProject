@@ -1,6 +1,6 @@
 # 🛍️ Recommandation d'Articles - Projet Data Mining
 
-Ce projet a été réalisé dans le cadre de mon parcours en Data Mining. Il consiste à développer un système de recommandation d’articles complémentaires à partir de transactions d’achat réelles, en utilisant les règles d'association (Apriori).
+Ce projet consiste à développer un système de recommandation d’articles complémentaires à partir de transactions d’achat réelles, en utilisant les règles d'association (Apriori).
 
 ## 📊 Objectif
 
